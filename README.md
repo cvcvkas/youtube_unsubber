@@ -1,4 +1,4 @@
-# Unsubscribes from ALL of your subscriptions on youtube.
+### Unsubscribes from ALL of your subscriptions on youtube.
 
 **STEPS \
 **1. Copy the code in the 'unsubscriber.js' file.**
