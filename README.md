@@ -1,6 +1,6 @@
 # Unsubscribes from ALL of your subscriptions on youtube.
 
-# #STEPS
+# STEPS \
 # 1. Copy the code in the 'unsubscriber.js' file.
 # 2. Go to your [subscription_manager](https://www.youtube.com/subscription_manager).
 # 3. Open the console by pressing F12 and navigating to the second menu.
